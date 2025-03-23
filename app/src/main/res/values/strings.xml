@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidDemo001</string>
+    <string name="title_text_id">Goodbye</string>
+    <string name="clicked">Clicked</string>
+    <string name="click">Click</string>
+
+
+</resources>
